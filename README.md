@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skarthik-raja&label=Profile%20views&color=0e75b6&style=flat" alt="skarthik-raja" /> </p>
 
-- 🌱 I’m a Frontend Developer
+- 🌱 I’m a Mobile App Developer
 
 - 💬 Ask me about **Mobile App Development**
 
